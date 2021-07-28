@@ -1,0 +1,27 @@
+.card {
+
+    border: solid 1px #c3c3c3;
+    border-radius: 0.5rem;
+    width: 250px;
+    padding: 0.5rem 1rem;
+    position: relative;
+    /* background-color: fade(#FFFFFF, 10%); */
+    /* filter: alpha(opacity=80); */
+    height: 350px;
+    
+}
+
+.card:hover {
+    background-color: rgb(247, 247, 245);
+    /* color: #2c2b2be3; */
+    color: #0e4c9ee3;
+  }
+
+/* .divimagen {
+    width:100%;
+} */
+
+img {
+    width: 100% ;
+    object-fit: fill;
+}
